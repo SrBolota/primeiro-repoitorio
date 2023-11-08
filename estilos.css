@@ -1,15 +1,19 @@
-
+.titulo-principal {
+    padding-left: 25px;
+    background-color: #CCCC;
+    color: yellow;
+}
 
 img {
     width: 100%;
 }
 
-.pricipal {
+.principal {
     background: #CCCC;
     padding: 30px;
 }
 
-h1 {
+h2 {
     text-align: center;
 }
 
@@ -30,7 +34,7 @@ em strong {
     padding: 20px;
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
